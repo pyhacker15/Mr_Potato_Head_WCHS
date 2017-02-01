@@ -5,16 +5,6 @@
 Together we can create a Mr. Potato Head using GitHub! 
 
 
-###Directions
-1. Find your teacher on github.com and find the `Mr_Potato_Head` repository:
-2. Fork the Repo
-3. Create a new workspace for this repository using the clone from Git URL from your repository.
-4. Add your assigned body part to `potatohead.html`. Body parts can be found in the `assets` folder
-5. Add the necessary CSS to your body part in the `potato.css` file.
-6. Push your changes to your GitHub repo
-7. Create a Pull request to your teacher's repo
-
-
 ##Remember: **Fork, Change, Push, Pull**
 In Cloud 9 terminal:
 
@@ -31,7 +21,7 @@ You should see that potatohead.html and potato.css are modified, like this:
 
 ### Make a commit
 Stage your changes in the index with `git add .`, then commit them.  The string after `-m` in `git commit` is the commit message. Don't use "Commit message" as your message!
-Instead, say what you did, for example "added body part [your assigned body part]"
+Use "FIRST_NAME added BODY_PART to Mister Potato Head" (eg Simon added arms to Mister Potato Head)
 
 ```
  git add .
@@ -51,7 +41,3 @@ look at your github: You should see the commit you just made!  If you click "Com
 ### Make a pull request
 
 From your GitHub create a "New Pull Request" (the green button) to send your changes to the instructor.  The instructor will merge all of the changes (everyone's body parts), and at the end hopefully we'll have a whole Mr. Potato Head.
-
-### Bonus
-
-1. Create a button that sits below Mr. Potato Head that when it is clicked your body part will show or hide.
