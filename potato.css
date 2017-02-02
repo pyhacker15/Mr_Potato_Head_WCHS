@@ -42,6 +42,7 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
+#nose { top: 170px; left: 131px; z-index: 6; }
 
 
 
